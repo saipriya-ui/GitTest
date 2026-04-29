@@ -1,2 +1,3 @@
 Hello .This is KLH.
-new line 
+
+ECHO is on.
